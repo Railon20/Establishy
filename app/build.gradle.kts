@@ -72,7 +72,8 @@ dependencies {
     implementation ("com.google.firebase:firebase-messaging")
     implementation ("com.squareup.retrofit2:retrofit:2.9.0")
     implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
+    implementation ("com.squareup.retrofit2:adapter-kotlin-coroutines:2.9.0")
     implementation ("com.google.firebase:firebase-auth")
-    implementation ("com.mercadopago.android.px:checkout:4.72.1")
+    implementation ("com.mercadopago.android.px:checkout:4.97.0")
 
 }
